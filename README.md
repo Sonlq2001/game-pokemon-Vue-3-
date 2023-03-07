@@ -1,5 +1,10 @@
 # game-pokemon
 
+## Link demo project
+```
+https://pokemon-vue-01.netlify.app/
+```
+
 ## Project setup
 ```
 yarn install
